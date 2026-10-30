@@ -5,7 +5,7 @@ import javax.swing.*;
 /** BIT256/BSC211 Assignment 1 - Question 1. Uses a LinkedList to store teams. */
 public class JavaProgrammingCompetition extends JFrame {
     private static final String NAME = "CHILESHE MULENGA";
-    private static final String STUDENT_NUMBER = "BIT24233394";
+    private static final String STUDENT_NUMBER = "BIT";
     private static final int MAX_TEAMS = 6, TOTAL_ROUNDS = 4;
 
     private final LinkedList<Team> teams = new LinkedList<Team>();
